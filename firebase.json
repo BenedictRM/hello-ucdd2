@@ -1,0 +1,9 @@
+{
+  "firebase": "hello-uccd2-mehring",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
